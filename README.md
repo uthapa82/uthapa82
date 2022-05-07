@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/thapaupen" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/thapaupen" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/thapaupendra40" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thapaupendra40" height="60" width="60" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thapaupendra40" height="50" width="50" />
 </a>
   </p>
   

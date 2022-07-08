@@ -33,5 +33,6 @@
   ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
    
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=uthapa82&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uthapa82&layout=compact" />
- 
+<!<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uthapa82&layout=compact" />
+>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uthapa82&layout=compact)](https://github.com/uthapa82/github-readme-stats)" />

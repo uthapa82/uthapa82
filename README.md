@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm  Upendra Thapa</h1>
-<h3 align="center">Skilled Network Engineer. Python For Automation, CyberSecurity and Cloud Computing enthusiast. </h3>
+<h2 align="center">Skilled Network Engineer. CyberSecurity enthusiast.👾🏴‍☠️☣🕵🏻‍♂️💻⚠️
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uthapa82&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="uthapa82" /> </p>
 
-- 💻 I’m currently learning Python for Network Automation and GNS-3.
+- 💻 Currently studying for CyberSecurity Certification from (isc)<sup>2</sup>.
 - 💬 Ask me about Computer Networks.
 - 📫 How to reach me: tupendra022@gmail.com
 - ⚡ Fun fact: I use Linux btw 😆, Also I am collecting motherboards for my ["motherboard wall"](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)

@@ -7,7 +7,7 @@
 - 💻 Currently studying for CyberSecurity Certification from (isc)<sup>2</sup>.
 - 💬 Ask me about Computer Networks.
 - 📫 How to reach me: tupendra022@gmail.com
-- ⚡ Fun fact: I use Linux btw 😆, Also I am collecting motherboards for my motherboard wall like  [this](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)
+- ⚡ Fun fact: I use Linux, Also I am collecting motherboards for my motherboard wall like  [this](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--

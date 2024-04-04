@@ -12,19 +12,18 @@
 <p align="left">
 <!--
 <a href="https://www.linkedin.com/in/thapaupen" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/thapaupen" height="50" width="50" /></a>
--->
+
 <a href="https://www.hackerrank.com/thapaupendra40" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thapaupendra40" height="50" width="50" />
 </a>
   </p>
-  
+  -->
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.gns3.com/" target="_blank"> <img src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" alt="GNS3" width="50" height="50"/></a><a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html" target="_blank"> <img src="https://genesisbcs.com/wp-content/uploads/2016/12/cisco2.png" alt="CML" width="90" height="50"/> </a><a href="https://www.juniper.net/us/en/products/network-operating-system/junos-os.html" target="_blank"> <img src="https://juniper-prod.scene7.com/is/image/junipernetworks/juniper_black-rgb-header?wid=224&dpr=off" alt="Juniper Networks" width="115" height="50"/></a><a href="https://www.netacad.com/courses/packet-tracer" target="_blank"> <img src="https://filekumar.com/wp-content/uploads/2020/07/packet-Tracer-Picture.png" alt="PacketTracer" width="90" height="50"/> </a><a href="https://www.wireshark.org" target="_blank"> <img src="https://miro.medium.com/max/512/1*RrNY_2YfqLXVel-07OD3kA.png" alt="Wireshark" width="90" height="60"/> </a><a href="https://www.virtualbox.org/" target="_blank"> <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="Virtual Box" width="60" height="60"/> </a>
 <br>
 <br />  
  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

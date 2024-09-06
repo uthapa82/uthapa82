@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uthapa82&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="uthapa82" /> </p>
 
-- 💻 Currently studying for Security Certification .
-- 💬 Ask me about Computer Networks.
+- 💻 Currently pursuing a Security Certification to deepen my expertise .
+- 💬 Passionate about Computer Networks.
 - 📫 How to reach me: tupendra022@gmail.com
-- ⚡ Fun fact: I use Linux, Also I am collecting motherboards for my motherboard wall like  [this](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)
+- ⚡ Fun fact: I'm a Linux enthusiast and I’m also building a unique collection of motherboards for a dedicated “motherboard wall” like  [this](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--

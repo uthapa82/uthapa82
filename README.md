@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uthapa82&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="uthapa82" /> </p>
 
-- 💻 Currently studying for CyberSecurity Certification .
+- 💻 Currently studying for Security Certification .
 - 💬 Ask me about Computer Networks.
 - 📫 How to reach me: tupendra022@gmail.com
 - ⚡ Fun fact: I use Linux, Also I am collecting motherboards for my motherboard wall like  [this](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there !👋, I'm  Upendra Thapa</h1>
-<h2 align="center">A Seasoned Network Enginee with a passion for CyberSecurity.👾🏴‍☠️☣🕵🏻‍♂️💻⚠️
+<h2 align="center">A Seasoned Network Engineer with a passion for CyberSecurity.👾🏴‍☠️☣🕵🏻‍♂️💻⚠️
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uthapa82&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="uthapa82" /> </p>

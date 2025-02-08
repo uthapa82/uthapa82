@@ -6,7 +6,7 @@
 
 - 💻 Currently pursuing a Security Certification to deepen my expertise .
 - 💬 Passionate about Computer Networks.
-- 📫 How to reach me: tupendra022@gmail.com
+- 📫 How to reach me: tupendra022 [at] gmail [dot] com
 - ⚡ Fun fact: I'm a Linux enthusiast and I’m also building a unique collection of motherboards for a dedicated “motherboard wall” like  [this](https://www.reddit.com/r/pcmasterrace/comments/j0xc3y/finished_motherboard_wall_scavenged_from_old/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">

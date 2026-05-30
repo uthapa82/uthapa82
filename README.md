@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uthapa82&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="uthapa82" /> </p>
 
-- 🌱 Upskilling in: Kubernetes container orchestration, F5 advanced security solutions, and exploring AIOps for network infrastructure.
-- 💬 Passionate about Network Security.
-- 📫 How to reach me: thapaupendra72@gmail.com
-- ⚡ Fun fact: I'm a Linux enthusiast and like to try out different distros.
+- Upskilling in: Kubernetes container orchestration, F5 advanced security solutions, and exploring AIOps for network infrastructure.
+- Passionate about Network Security.
+- How to reach me: thapaupendra72@gmail.com
+- Fun fact: I'm a Linux enthusiast and like to try out different distros.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
